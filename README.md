@@ -15,7 +15,7 @@
 14. Insertion Sort
 15. No.Of Islands
 16. Koko eating bananas
-17. Lemnoids
+17. Lemonaid Stand
 18. Length of loop in Linked List
 19. Linked List
 20. Lower Bound
