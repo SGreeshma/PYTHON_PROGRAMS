@@ -39,3 +39,5 @@
 38. Tower of hanio
 39. Two Sum
 40. Upper Bound
+41. Meadian of sorted array
+42. Valid Parenthesis
